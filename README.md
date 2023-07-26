@@ -1,6 +1,6 @@
-# Assigment 21(LARAVEL)
+# Project: Assigment 21(LARAVEL)
 
-# Syed Amir Hamza
+# Name: Syed Amir Hamza
 
 # API Route
 ![Screenshot_17](https://github.com/AmirHam-Za/laravel-assignment-21/assets/125890933/2f055427-d46e-4b25-8fb3-6c5ae722ef94)
