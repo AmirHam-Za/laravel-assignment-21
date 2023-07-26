@@ -1,9 +1,7 @@
-# Assigment 21
+# Assigment 21(LARAVEL)
 
+# Syed Amir Hamza
 
-PHP LARAVEL OF OSTAD Assigment 21.
-
-And it's assignment of PHP LARAVEL OF OSTAD.
 # API Route
 ![Screenshot_17](https://github.com/AmirHam-Za/laravel-assignment-21/assets/125890933/2f055427-d46e-4b25-8fb3-6c5ae722ef94)
 
